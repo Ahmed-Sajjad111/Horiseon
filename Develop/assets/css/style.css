@@ -8,6 +8,10 @@ body {
     background-color: #d9dcd6;
 }
 
+p {
+    font-size: 16px;
+}
+
 /* Header Styles Start */
 
 header {
@@ -50,12 +54,9 @@ header nav ul li a {
 
 /* Header Styles End */
 
-p {
-    font-size: 16px;
-}
+/* HERO SECTION START */
 
-/* Hero Styles Start */
-
+/* Digital Marketing Styles Start */
 .digital-marketing {
     height: 1200px;
     width: 100%;
@@ -63,7 +64,9 @@ p {
     background-size: cover;
     background-position: center;
 }
+/* Digital Marketing Styles End */
 
+/* Content Styles Start */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -80,7 +83,7 @@ p {
     margin-left: 20px;
 }
 
-.block-hero {
+.services-content {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -89,17 +92,17 @@ p {
     color: #ffffff;
 }
 
-.block-hero img {
+.services-content img {
     max-height: 200px;
 }
 
-.block-hero h2 {
+.services-content h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/* Content Styles End */
 
-/* Hero Styles End */
-
+/* Benefits Styles Start */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -111,53 +114,24 @@ p {
     background-color: #2589bd;
 }
 
-.benefit-lead {
+.results-benefits {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-lead h3 {
+.results-benefits {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit-brand h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-cost h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-lead img {
+.results-benefits img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
+/* Benefits Styles End */
 
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-cost img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
+/* HERO SECTION END */
 
 /* Footer Styles Start */
 
