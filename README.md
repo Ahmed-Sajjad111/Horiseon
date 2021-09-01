@@ -7,8 +7,8 @@ Horiseon's official website. Horiseon is an agency designed to help you with you
 This project was to practice and demonstrate semantic HTML, understanding of accessibility requirements, and css.
 
 ## Built With
-*HTML
-*CSS
+* HTML
+* CSS
 
 ## Website
 https://ahmed-sajjad111.github.io/Horiseon/
